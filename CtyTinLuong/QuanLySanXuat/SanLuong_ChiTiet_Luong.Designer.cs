@@ -744,7 +744,7 @@
             this.clSTT.OptionsColumn.FixedWidth = true;
             this.clSTT.Visible = true;
             this.clSTT.VisibleIndex = 0;
-            this.clSTT.Width = 39;
+            this.clSTT.Width = 71;
             // 
             // clID_CongNhan
             // 
@@ -785,7 +785,7 @@
             this.clTenVTHH.OptionsColumn.AllowEdit = false;
             this.clTenVTHH.Visible = true;
             this.clTenVTHH.VisibleIndex = 2;
-            this.clTenVTHH.Width = 272;
+            this.clTenVTHH.Width = 480;
             // 
             // memoTenVTHH
             // 
@@ -887,7 +887,7 @@
             this.clMaVT.OptionsColumn.FixedWidth = true;
             this.clMaVT.Visible = true;
             this.clMaVT.VisibleIndex = 1;
-            this.clMaVT.Width = 71;
+            this.clMaVT.Width = 155;
             // 
             // clDonViTinh
             // 
