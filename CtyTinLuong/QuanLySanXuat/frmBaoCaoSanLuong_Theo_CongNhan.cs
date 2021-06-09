@@ -33,7 +33,7 @@ namespace CtyTinLuong
             clsPhieu_ChiTietPhieu_New cls = new clsPhieu_ChiTietPhieu_New();
 
             DataTable dtxxxx = new DataTable();
-            dtxxxx = cls.SelectAll_distinct_ID_VTHH_Ra_W_NgayThang_CongNhan_HUU(iiID_CongNhan, ngaydauthang, ngaycuoithang);
+            dtxxxx = cls.SelectAll_distinct_ID_VTHH_Ra_W_NgayThang_CongNhan_HUU(iiID_CongNhan, xxtungay, xxdenngay);
 
             DataTable dt2xx = new DataTable();
 
